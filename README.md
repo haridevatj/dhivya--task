@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+
 <html>
     <head>
         <title>HTML
         </title>
         <link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     </head>
-<body style="background-color:rgb(247, 239, 247);"></body>    
+<body style="background-color:rgb(247, 239, 247);">    
     <form>
         <i class="fa-solid fa-bars"></i>&nbsp; 
     <a href="https://www.youtube.com/">
