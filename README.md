@@ -36,8 +36,5 @@
          <br>
           <p>Check more Html & CSS related videos which will help you to add elements on your website.</p>
           <a href="https://www.youtube.com/results?search_query=wpshopmart" target="_blank">show more</a>
-        <i class="fa-solid fa-bars"></i>&nbsp; 
-   value="Suscriptions"></a>
-        <i class="fa-solid fa-bell"></i>
         </body>
     </html>
