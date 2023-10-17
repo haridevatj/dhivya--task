@@ -36,10 +36,6 @@
          <br>
           <p>Check more Html & CSS related videos which will help you to add elements on your website.</p>
           <a href="https://www.youtube.com/results?search_query=wpshopmart" target="_blank">show more</a>
-    </form>  
-</body>
-</html>
-
         <i class="fa-solid fa-bars"></i>&nbsp; 
     <a href="https://www.youtube.com/">
         <img src="you.png" width="80" height="20"></a>
