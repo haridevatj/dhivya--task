@@ -36,5 +36,4 @@
          <br>
           <p>Check more Html & CSS related videos which will help you to add elements on your website.</p>
           <a href="https://www.youtube.com/results?search_query=wpshopmart" target="_blank">show more</a>
-        </body>
-    </html>
+</body></html>
