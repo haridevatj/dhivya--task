@@ -65,6 +65,8 @@
          published on 2012.
         <a href="subscriptions.html"> <input type="button" name="sus" value="Suscriptions"></a>
         <i class="fa-solid fa-bell"></i>
+        </body>
+        </html>
         </nav>
          <br>
           <p>Check more Html & CSS related videos which will help you to add elements on your website.</p>
